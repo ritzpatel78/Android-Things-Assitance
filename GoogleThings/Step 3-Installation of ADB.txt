@@ -1,0 +1,4 @@
+1)ADB is important because of it responsible for to upload your code(.APK) to android things there is no any alternative for installing application into android things
+2)You can add ADB in your Laptop from "C:\Users\ritzp\AppData\Local\Android\Sdk\platform-tools"
+ your Sdk platform-tools then you see ADB Application
+3)Setup Enviorment Variable for ADB Add path of your "C:\Users\ritzp\AppData\Local\Android\Sdk\platform-tools" location

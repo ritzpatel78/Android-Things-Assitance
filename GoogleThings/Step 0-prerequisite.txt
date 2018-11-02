@@ -1,0 +1,5 @@
+1.install android stdio
+2.must have Android device
+3.google account for firebase
+4.preior knowledge about java or Adnroid and Firebase
+5.please see GPIO pin settings in Boradefaults in step-5(BCM-6 or IOT13) 

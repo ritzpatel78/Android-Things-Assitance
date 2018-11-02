@@ -1,0 +1,30 @@
+Flashing of Android Things is Easy But,If we are flashing it for the first time then it is complicated so read this file carefully
+	i)GOTO This and read carefully==>https://developer.android.com/things/hardware/raspberrypi
+	ii)Download "android-things-setup-utility" from google doc(I'll also add to material)
+	iii)If you run "android-things-setup-utility-windows" for windows then follow Following Steps:
+			
+			What do you want to do?
+			1 - Install Android Things and optionally set up Wi-Fi
+			2 - Set up Wi-Fi on an existing Android Things device
+			1
+			What hardware are you using?
+			1 - Raspberry Pi 3
+			2 - NXP Pico i.MX7D
+			1
+			You chose Raspberry Pi 3.
+
+			Setting up required tools...
+			Fetching additional configuration...
+			Downloading platform tools...
+			4.74 MB/4.74 MB
+			Unzipping platform tools...
+			Finished setting up required tools.
+
+			Raspberry Pi 3
+			Do you want to use the default image or a custom image?
+			1 - Default image: Used for development purposes. No access to the Android
+			Things Console features such as metrics, crash reports, and OTA updates.
+			2 - Custom image: Upload your custom image for full device development and
+			management with all Android Things Console features.
+	iv)Please Select "1-Default Image" it will download latast version and it takes 350-400mb to download image then follow steps that 	   	   it display.
+	

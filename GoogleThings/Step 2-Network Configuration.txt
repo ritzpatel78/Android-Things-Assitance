@@ -1,0 +1,6 @@
+(Note)If you setup WIFI in Step-1 then Skip this
+	i)Network setup for the first time is difficult so if you have VGA-HDMI and HDMI-HDMI then you can easily 
+	  do it when android things starts GOTO "Network then setup wifi of LAN"
+	ii)please Do not change SSID and Password of Your WIFI
+	iii)Now You can Easily Connect to your Android Things to wifi
+	iv)it will automatically connect your wifi
